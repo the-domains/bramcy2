@@ -1,4 +1,3 @@
-layout_spectrum: 0.6555395184550434
 typography_spectrum: 0.4152686633169651
 color:
   brandStrength: 0.4613829730078578
@@ -6,9 +5,11 @@ color:
   saturation: 0.1494880395475775
   rhythmicContrast: 0.25493976892903447
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+layout_spectrum: 0.6555395184550434
 name: bramcy2
+title: Que?
